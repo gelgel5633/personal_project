@@ -1,7 +1,6 @@
 1
 전력질주_DACON_최종정리.ipynb
 처음부터 조원분들과 완성. 전처리와 모델링 부분을 맡음
-그리드 서치를 할 때마다 오류가 너무 많이 발생해서 해결하느라 시간을 다 잡아먹고 조원분께서 찾으신 방법대로 해결함
 링크 : https://github.com/gelgel5633/personal_project/blob/main/%EC%A0%84%EB%A0%A5%EC%A7%88%EC%A3%BC_DACON_%EC%B5%9C%EC%A2%85%EC%A0%95%EB%A6%AC.ipynb
 nbviewer 링크 : https://nbviewer.org/github/gelgel5633/personal_project/blob/main/%EC%A0%84%EB%A0%A5%EC%A7%88%EC%A3%BC_DACON_%EC%B5%9C%EC%A2%85%EC%A0%95%EB%A6%AC.ipynb
 
