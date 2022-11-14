@@ -13,3 +13,8 @@ nbviewer 링크 : https://nbviewer.org/github/gelgel5633/personal_project/blob/m
 Tabular Playground Series - Sep 2022
 어떻게하면 유의미한 피쳐 엔지니어링을 할 수 있을지 고민을 한 노트북입니다.
 링크 : https://github.com/gelgel5633/personal_project/blob/main/KR_Tabular_Playground_Series.ipynb
+
+4
+데이콘_제주도 도로 교통량 예측 AI 경진대회  
+with riverlike(https://github.com/riverlike)
+링크 : 
