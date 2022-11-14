@@ -17,4 +17,4 @@ Tabular Playground Series - Sep 2022 (public : 431/1381, private : 442/1381)
 4
 데이콘_제주도 도로 교통량 예측 AI 경진대회(팀 public : 54/715, 팀 private : 55/715)
 with riverlike(https://github.com/riverlike)
-링크 : 
+링크 : https://github.com/gelgel5633/personal_project/blob/main/jeju_road.ipynb
