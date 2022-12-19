@@ -18,3 +18,8 @@ Tabular Playground Series - Sep 2022 (public : 431/1381, private : 442/1381)
 데이콘_제주도 도로 교통량 예측 AI 경진대회(팀 public : 54/715, 팀 private : 55/715)
 with riverlike(https://github.com/riverlike)
 링크 : https://github.com/gelgel5633/personal_project/blob/main/jeju_road.ipynb
+
+5
+건설기계 오일 상태 분류 AI 경진대회(public : 150/1092, private : 233/1092)
+베이스라인에서는 Knowledge Distillation을 제시하였지만, 일반적인 머신러닝으로 진행하였습니다. -> 오일의 이상여부 확인
+링크 : https://github.com/gelgel5633/personal_project/blob/main/oil_status.ipynb
